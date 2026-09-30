@@ -45,6 +45,8 @@ I like taking ideas from:
 - Automation
 - Mobile applications
 - Software systems
+- AI agents
+- Ethical hacking
 
 </td>
 <td width="40%" valign="top">
@@ -150,6 +152,6 @@ Minimal productivity and habit-tracking application focused on routines, reminde
 BUILD  →  SHIP  →  LEARN  →  REPEAT
 ```
 
-<sub>DHARSHAN · SOFTWARE DEVELOPER</sub>
+<sub>DHARSHAN · SOFTWARE DEVELOPER/AI ENGINEER</sub>
 
 </div>
