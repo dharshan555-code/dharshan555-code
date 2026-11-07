@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="./assets/header.gif" width="100%" alt="Dharshan animated header">
@@ -23,6 +24,8 @@
 </div>
 
 <img src="./assets/divider.gif" width="100%" alt="animated divider">
+
+---
 
 ## `01 — ABOUT`
 
@@ -85,7 +88,9 @@ improve     ██████████
 
 </div>
 
-<p align="center"><sub>click any icon to open its official site</sub></p>
+<p align="center">
+<sub>Click any icon to open its official site</sub>
+</p>
 
 ---
 
@@ -112,21 +117,61 @@ Minimal productivity and habit-tracking application focused on routines, reminde
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Py-Sec-Lint
+
+Python dependency security auditing tool focused on identifying vulnerable packages and improving project security.
+
+<a href="https://github.com/dharshan555-code?tab=repositories">VIEW REPOSITORIES →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### More Projects
+
+Exploring developer tools, AI-powered applications and practical software solutions.
+
+<a href="https://github.com/dharshan555-code?tab=repositories">EXPLORE ALL →</a>
+
+</td>
+</tr>
 </table>
 
 <img src="./assets/divider.gif" width="100%" alt="animated divider">
+
+---
 
 ## `04 — GITHUB`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dharshan555-code&show_icons=true&hide_border=true&bg_color=050608&title_color=10B981&icon_color=10B981&text_color=f2f4f6" width="49%" alt="GitHub statistics">
+<!-- GitHub Statistics -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharshan555-code&theme=dark&hide_border=true&background=050608&ring=10B981&fire=10B981&currStreakLabel=10B981" width="49%" alt="GitHub streak">
+<img
+src="https://github-readme-stats.vercel.app/api?username=dharshan555-code&show_icons=true&hide_border=true&bg_color=050608&title_color=10B981&icon_color=10B981&text_color=f2f4f6&cache_seconds=86400"
+width="49%"
+alt="Dharshan GitHub statistics"
+/>
+
+<!-- GitHub Streak -->
+
+<img
+src="https://streak-stats.demolab.com?user=dharshan555-code&theme=dark&hide_border=true&background=050608&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=f2f4f6&dates=888888"
+width="49%"
+alt="Dharshan GitHub contribution streak"
+/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharshan555-code&bg_color=050608&color=f2f4f6&line=10B981&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub activity">
+<!-- GitHub Activity Graph -->
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=dharshan555-code&bg_color=050608&color=f2f4f6&line=10B981&point=ffffff&area=true&hide_border=true"
+width="100%"
+alt="Dharshan GitHub activity graph"
+/>
 
 </div>
 
@@ -152,6 +197,6 @@ Minimal productivity and habit-tracking application focused on routines, reminde
 BUILD  →  SHIP  →  LEARN  →  REPEAT
 ```
 
-<sub>DHARSHAN · SOFTWARE DEVELOPER/AI ENGINEER</sub>
+<sub>DHARSHAN · SOFTWARE DEVELOPER / AI ENGINEER</sub>
 
 </div>
